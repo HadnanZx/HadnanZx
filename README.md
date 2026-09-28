@@ -32,9 +32,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadnanZx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/HadnanZx" alt="Contribution Chart" />
-</div>
+
 
 ---
 
@@ -54,8 +52,8 @@
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://github.com/HadnanZx">
-    <img src="https://img.shields.io/badge/GitHub-HadnanZx-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/hadnan-dos-santos-menezes-b965b4412">
+    <img src="https://img.shields.io/badge/LinkedIn-Hadnan%20Menezes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
