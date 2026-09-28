@@ -1,6 +1,6 @@
-<hi align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Hadnan+Menezes;Estudante+de+ADS+no+IFBA;4º+semestre+•+Java+•+C+•+Git;Construindo+um+futuro+na+tech+🚀" alt="Typing SVG" />
-</hi>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Hadnan+Menezes;Estudante+de+ADS+no+IFBA;4º+semestre+•+Java+•+C+•+Git;Construindo+um+futuro+na+tech+🚀" alt="Typing SVG" />
+</div>
 
 ---
 
