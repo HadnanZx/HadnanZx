@@ -50,7 +50,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | 🎮 **Campo-Minado** | Primeiro jogo programado em C | C |
-| 🏨 **Hotel Manager** | Sistema de reservas de hotel com JavaFX | Java, JavaFX, Maven |
+| 🏨 **Gerenciador-Hotel** | Sistema de reservas de hotel com JavaFX | Java, JavaFX, Maven |
 
 </div>
 
