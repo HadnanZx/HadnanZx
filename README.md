@@ -29,15 +29,11 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HadnanZx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HadnanZx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadnanZx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/HadnanZx" alt="Contribution Chart" />
 </div>
 
 ---
